@@ -76,7 +76,7 @@ TV2NJ (TradingView to NinjaTrader) is a sophisticated automated trading bot that
 ## Technical Architecture
 
 ```
-TradingView Alert → Webhook → ExcellGen Relay → WebSocket → TV2NJ → NinjaTrader → TopstepX API
+TradingView Alert →  Webhook /  Relay → WebSocket → TV2NJ (NinjaTrader add-on) → TopstepX API
 ```
 
 ### Components:
