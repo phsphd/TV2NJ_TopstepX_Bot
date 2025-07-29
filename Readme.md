@@ -106,7 +106,7 @@ TradingView Alert →  Webhook /  Relay → WebSocket → TV2NJ (NinjaTrader add
 ## System Requirements
 
 - NinjaTrader 8
-- TopstepX API access ($29/month with 50% discount code: "topstep")
+- TopstepX API access ($29/month with 50% discount code: "topstep"), get API Key from https://dashboard.projectx.com/
 - TradingView (Pro or higher for webhooks)
 - Windows 10/11
 - .NET Framework 4.8 or higher
